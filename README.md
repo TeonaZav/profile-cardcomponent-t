@@ -1,7 +1,7 @@
 # Frontend Mentor - Profile card component solution
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ Our challenge was to build out this profile card component using any tools, and 
 
 ### Screenshot
 
-![](../screenshot.JPG)
+![](images/screenshot.JPG)
 
 ## My process
 
