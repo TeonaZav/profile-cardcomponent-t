@@ -31,3 +31,5 @@ The card is styled with CSS. I tried positioning background as given in the desi
 - Semantic HTML5 markup
 - CSS
 - Flexbox
+## URL
+https://profile-cardcomponent-t.netlify.app/
